@@ -34,6 +34,8 @@ That kind of prompt gives the system a time horizon, audience map, and decision 
 
 Before opening MiroFish, assemble a run packet. The packet does not need to be perfect, but it should explain the world you want simulated.
 
+![MiroFish graph memory from uploaded planning documents](../assets/mirofish-graph-memory-simulation.png)
+
 Useful materials include product briefs, release notes, landing page drafts, customer interview notes, market research, social comments, competitor positioning, policy context, and internal decision memos.
 
 The goal is not to upload every document your team owns. The goal is to give MiroFish enough grounded context to extract entities, relationships, incentives, claims, risks, and open questions.
@@ -72,6 +74,8 @@ The best follow-up is a second run with one changed variable. Compare two launch
 
 Use this run when a team has a launch page, product brief, target customer notes, and a planned announcement.
 
+![MiroFish product launch audience reaction simulation](../assets/mirofish-product-launch-simulation.png)
+
 ```text
 Simulate the first 48 hours after launch.
 Audience groups: early adopters, skeptical buyers, founders, product managers, and industry commentators.
@@ -109,6 +113,8 @@ This gives founders, strategy teams, and operators a better way to discuss marke
 ## How to Judge a MiroFish Report
 
 Do not read a MiroFish report like a guarantee. Read it like an operating map.
+
+![MiroFish prediction report and scenario intelligence dashboard](../assets/mirofish-prediction-report-dashboard.png)
 
 Useful reports usually include clear audience segments, repeated reaction patterns, source-grounded assumptions, plausible risks, tactical recommendations, and follow-up questions worth simulating.
 

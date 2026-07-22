@@ -70,6 +70,8 @@ The goal is not to predict every detail perfectly. The goal is to surface risks,
 
 A strong simulation starts with strong context.
 
+![Documents turning into graph memory for an AI simulation](../assets/mirofish-graph-memory-simulation.png)
+
 With MiroFish, useful input can include PDF reports, Markdown documents, text files, product briefs, market research, customer interview notes, social media comments, community discussions, policy documents, campaign plans, press releases, competitor analysis, and internal strategy notes.
 
 You do not need a perfect dataset. You need enough context for MiroFish to extract reality seeds: the entities, relationships, topics, constraints, events, and background signals that define the world you want to simulate.
@@ -129,6 +131,8 @@ This turns the simulation from a one-time output into an interactive research en
 
 Imagine your team is preparing to launch a new AI productivity product.
 
+![Product launch reaction simulation with audience clusters](../assets/mirofish-product-launch-simulation.png)
+
 You have a product brief, a landing page draft, a target customer profile, a few competitor reviews, and a planned announcement post.
 
 In MiroFish, you upload those documents and enter a simulation requirement:
@@ -168,6 +172,8 @@ A strong simulation requirement usually includes the decision or event being tes
 ## How to Read an AI Simulation Report
 
 A MiroFish prediction report should be used as decision intelligence, not as a final verdict.
+
+![MiroFish prediction report dashboard](../assets/mirofish-prediction-report-dashboard.png)
 
 Look for patterns, not one perfect answer. The most useful signal is often a repeated pattern across agents or groups. If many simulated users misunderstand the same claim, that is worth fixing. If multiple groups react positively to the same benefit, that message may deserve more attention.
 
